@@ -1,2 +1,1 @@
-# adopt-a-runner
-# simplifyalert
+# SimplifyAlert
